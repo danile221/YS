@@ -18,6 +18,7 @@
 {"key":"csp_biubiu_蓝光影视","name":"🌀蓝光影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/danile221/tv/-/raw/master/XB/lgys.json"},
 {"key":"csp_biubiu_dadagui","name":"🐢达达龟(XB)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/danile221/tv/-/raw/master/XB/达达龟.json"},
 {"key":"csp_biubiu_皮皮泡","name":"🧳皮皮泡(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/danile221/tv/-/raw/master/XB/pipipao.json"},
+{"key":"csp_biubiu_剧白白","name":"🧳剧白白(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/danile221/tv/-/raw/master/XB/剧白白-蓝光.json"},
 {"key":"*91麻豆","name":"🔞🈲91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
 
 {"key":"*色猫资源","name":"🔞色猫资源","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
