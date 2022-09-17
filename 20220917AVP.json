@@ -12,7 +12,7 @@
 {"key":"凌云影视(XYQ)","name":"🚀凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/danile221/tv/-/raw/master/XYQXB/凌云影视.json"},
 {"key":"555影视(XYQ)","name":"📹555影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/danile221/tv/-/raw/master/XYQXB/555ys.json"},
 {"key":"影视工场(XYQ)","name":"🎦影视工场(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/danile221/tv/-/raw/master/XYQXB/ysgc.json"},
-{"key":"歪片星球(XYQ)","name":"🌏歪片星球(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/danile221/tv/-/raw/master/XYQXB/wpxq.json"}
+{"key":"歪片星球(XYQ)","name":"🌏歪片星球(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/danile221/tv/-/raw/master/XYQXB/wpxq.json"},
 {"key":"csp_biubiu_乐猪影视","name":"🎁乐猪TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/danile221/tv/-/raw/master/XB/lztv.json"},
 {"key":"影视工场(XB)","name":"🎞影视工场(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/danile221/tv/-/raw/master/XB/ysgc.json"},
 {"key":"csp_biubiu_蓝光影视","name":"🌀蓝光影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/danile221/tv/-/raw/master/XB/lgys.json"},
