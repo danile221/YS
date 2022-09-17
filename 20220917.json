@@ -17,8 +17,8 @@
 {"key":"影视工场(XB)","name":"🎞影视工场(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/danile221/tv/-/raw/master/XB/ysgc.json"},
 {"key":"csp_biubiu_蓝光影视","name":"🌀蓝光影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/danile221/tv/-/raw/master/XB/lgys.json"},
 {"key":"csp_biubiu_dadagui","name":"🐢达达龟(XB)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/danile221/tv/-/raw/master/XB/达达龟.json"},
-{"key":"csp_biubiu_皮皮泡","name":"🧳皮皮泡(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/danile221/tv/-/raw/master/XB/pipipao.json"},
-{"key":"csp_biubiu_剧白白","name":"🧳剧白白(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/danile221/tv/-/raw/master/XB/剧白白-蓝光.json"},
+{"key":"csp_biubiu_皮皮泡","name":"🎬皮皮泡(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/danile221/tv/-/raw/master/XB/pipipao.json"},
+{"key":"csp_biubiu_剧白白","name":"💿剧白白(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/danile221/tv/-/raw/master/XB/剧白白-蓝光.json"},
 {"key":"csp_xml___量子资源","name":"🐝量子资源"   ,"type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___快播云","name":"🐝快播资源"     ,"type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_多多资源","name":"🐝多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},{"key":"csp_xml___天空资源","name":"🐝天空资源"   ,"type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1}
